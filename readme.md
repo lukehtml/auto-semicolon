@@ -31,7 +31,7 @@ And that’s it! You won't forget those semicolons anymore!
 
 ## Features
 
-- Automatically inserts a semicolon when you press space  
+- Automatically inserts a semicolon when you press enter 
 - Lightweight and easy to use  
 - Perfect for your own custom projects
 
