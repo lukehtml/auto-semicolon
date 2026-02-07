@@ -13,7 +13,7 @@ def on_enter(e):
 def pause(e):
     global paused
     paused = not paused
-    print("Paused XD" if paused else "Unpaused :D")
+    print("Paused :D" if paused else "Unpaused :D")
 
 kb.on_press_key("enter", on_enter, suppress=True)
 kb.on_press_key("right shift", pause)
